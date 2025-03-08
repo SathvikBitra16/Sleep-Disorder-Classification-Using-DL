@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+datasets/
+confusion_matrix_healthy_skip.pdf
+.env
